@@ -119,7 +119,7 @@
     "datatables.net": "^1.11.4",
     "datatables.net-bs": "^1.11.4",
     "echarts": "^5.4.2",
-    "elkjs": "^0.7.1",
+    "elkjs": "^0.9.3",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "framer-motion": "^6.0.0",
     "jquery": ">=3.5.0",
